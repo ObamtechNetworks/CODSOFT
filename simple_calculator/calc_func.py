@@ -56,7 +56,8 @@ def my_calculator():
         while True:
             try:
                 # ask user to pick an operator symbol
-                operator = input("Pick an operator from above: ").lower().strip()
+                operator = input(
+                    "Pick an operator from above: ").lower().strip()
                 # check if what user chose is in list of operators
                 if operator not in operators:
                     clear_screen()
@@ -92,8 +93,9 @@ def my_calculator():
         print("================================================")
 
         # ask if user wants to continue calculating or start new operation
-        calc_again = input(f"Type 'y' to continue calculating with {answer}"
-                           " 'new' to start afresh, 'exit'  to quit. ").lower().strip()
+        calc_again = input(
+            f"Type 'y' to continue calculating with {answer}"
+            " 'new' to start afresh, 'exit'  to quit. ").lower().strip()
 
         # check user's choice
         if calc_again == 'y':
