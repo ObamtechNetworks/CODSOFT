@@ -4,11 +4,10 @@ it connects other modules
 """
 
 
-# libaries
-from os import system
 # import modules and relevant variables
 from operator_dict import operators
 from exit_handler import handle_exit
+from utils import clear_screen
 
 
 def my_calculator():
@@ -60,7 +59,7 @@ def my_calculator():
                 operator = input("Pick an operator from above: ").lower().strip()
                 # check if what user chose is in list of operators
                 if operator not in operators:
-                    system('clear')
+                    clear_screen()
                     print("invalid selection, try again")
                     for keys in operators:
                         print(keys)
@@ -103,7 +102,7 @@ def my_calculator():
             for keys in operators:
                 print(keys)
         elif calc_again == 'new':
-            system('clear')  # clear screen and start a new calculation
+            clear_screen()  # clear screen and start a new calculation
             print("Starting Afresh...")
             game_play = False
             my_calculator()  # start afresh
