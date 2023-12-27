@@ -62,13 +62,13 @@ This password generator is a simple yet robust tool developed in Python. It allo
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/password-generator.git
+    git clone https://github.com/ObamtechNetworks/CODSOFT
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd password-generator
+    cd password_generator
     ```
 
 ### Running the Password Generator
