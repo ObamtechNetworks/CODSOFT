@@ -57,5 +57,5 @@ welcome_message = """
       with the password
 
       ENJOY and GIVE FEEDBACK ABOUT THIS APP
-      Programmed by: Bamidele Michael Ipadeola
+      ====> Programmed by: Bamidele Michael Ipadeola <====
       """

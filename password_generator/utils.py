@@ -19,9 +19,15 @@ def input_to_int(message):
     """
     while True:
         try:
-            return int(input(message))  # ask user for input & parse to int
-        except ValueError:
-            print("Please enter a valid number")
+            user_input = input(message)
+            if user_input.startswith('-'):
+                raise ValueError("Please enter a postive number!")
+            result = int(user_input)
+            if result <= 0:
+                raise ValueError("Please enter a postive number!")
+            return result
+        except ValueError as e:
+            print(f"Error: {e}")
 
 
 # function to generate random characters for any input

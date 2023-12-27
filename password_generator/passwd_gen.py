@@ -3,8 +3,14 @@
 
 
 # import dependcies/modules
+import logging
 from datetime import datetime
 from utils import input_to_int, generate_passwd
+
+# Configure logging
+logging.basicConfig(
+    filename='password_generator.log', level=logging.DEBUG,
+    format='%(asctime)s - %(levelname)s - %(message)s')
 
 
 def passwd_machine():
@@ -17,12 +23,12 @@ def passwd_machine():
 
     # track the time it was generated
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    print("\nYour password has been successfully created: ******")
-
-    show_password = input(
-        "Do you want to reveal the password? (yes/no)\n").lower()
+    print('\n======================================================')
+    print("Your password has been successfully created: ******")
 
     while True:
+        show_password = input(
+            "Do you want to reveal the password? (yes/no)\n").lower()
         if show_password == "yes":
             print("================================================")
             print(f"Your password is: {password_str}\n"
@@ -39,9 +45,14 @@ def passwd_machine():
             print("invalid input")
 
     # save password to file
-    with open("passwd.txt", "a") as passwd:
-        passwd.write(f"Generated on {timestamp}: Password: {password_str}\n")
-    print("password has been to: 'passwd.txt'")
+    try:
+        with open("passwd.txt", "a") as passwd:
+            passwd.write(
+                f"Generated on {timestamp}: Password: {password_str}\n")
+        print("password has been to: 'passwd.txt'")
+    except Exception as e:
+        logging.error(f"Error saving password to file: {e}")
+        print(f"Error saving password to file: {e}")
 
 
 if __name__ == "__main__":
