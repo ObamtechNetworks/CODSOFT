@@ -38,7 +38,7 @@ def random_characters(char_set, count):
     Returns:
         returns the randomly generated list of the characters
     """
-    return [random.choice(char_set) for _ in range(count)]
+    return [random.choice(char_set) for _ in range(1, count + 1)]
 
 
 # generate_passwd.py
