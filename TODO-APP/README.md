@@ -1,5 +1,9 @@
 # TODO List App
 
+## TODO LIST GUI SCREENSHOT
+### main window
+![TODO APP GUI](https://postimg.cc/7551N69G)
+
 ## Project Overview
 
 This TODO List App is a simple yet effective task management application that provides both Command Line Interface (CLI) and Graphical User Interface (GUI) options. It allows users to add, mark as complete, remove, and view tasks, providing a flexible and user-friendly experience.
@@ -83,6 +87,29 @@ python3 main.py
 ```
 Choose 'gui' when prompted.
 
+
+## TODO LIST GUI SCREENSHOT
+### main window
+![TODO APP GUI](https://postimg.cc/7551N69G)
+
+### enter task
+![ENTER TASK](https://postimg.cc/gnkHn46K)
+
+### select task
+![ENTER TASK](https://postimg.cc/Yhnfgg6B)
+
+### mark task completed
+![MARK TASK COMPLETED](https://postimg.cc/XXnwzxx0)
+
+### remove unfinished task
+![REMOVE UNFINISHED TASK](https://postimg.cc/8j0MsGG1)
+
+### remove completed task
+![REMOVE COMPLETED TASK](https://postimg.cc/qN6n3FB2)
+
+### GUI created tasks persists
+![CREATED TASK PERSISTS GUI](https://postimg.cc/zbrn5krK)
+
 # CLI Version
 - Open a terminal.
 - Navigate to the project directory.
@@ -92,6 +119,25 @@ Choose 'gui' when prompted.
 ```bash
 python3 main.py
 ```
+
+## TODO LIST CLI SCREENSHOTS
+### main window
+![TODO APP CLI](https://postimg.cc/67RdDmDB)
+
+### add task
+![ADD TASK](https://postimg.cc/5XDBKVKP)
+
+### ongoing task
+![ONGOING TASK](https://postimg.cc/QHtcXtR4)
+
+### mark task completed
+![MARK TASK COMPLETED](https://postimg.cc/pykDb815)
+
+### completed task
+![MORE TASK](https://postimg.cc/SYQCYNjK)
+
+### remove completed task
+![EXIT](https://postimg.cc/vgt5m6Yj)
 
 # Future Improvements
 This project is a basic implementation, and there are several areas for potential improvement:
