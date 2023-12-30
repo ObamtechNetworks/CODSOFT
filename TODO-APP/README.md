@@ -90,25 +90,25 @@ Choose 'gui' when prompted.
 
 ## TODO LIST GUI SCREENSHOT
 ### main window
-![TODO APP GUI](https://postimg.cc/7551N69G)
+![TODO APP GUI](https://github.com/ObamtechNetworks/CODSOFT/blob/main/TODO-APP/screenshots/main%20window.png)
 
 ### enter task
-![ENTER TASK](https://postimg.cc/gnkHn46K)
+![ENTER TASK](https://github.com/ObamtechNetworks/CODSOFT/blob/main/TODO-APP/screenshots/GUI%20add_to_input_list_box.png)
 
 ### select task
-![ENTER TASK](https://postimg.cc/Yhnfgg6B)
+![SELECT TASK](https://github.com/ObamtechNetworks/CODSOFT/blob/main/TODO-APP/screenshots/GUI%20select_task.png)
 
 ### mark task completed
-![MARK TASK COMPLETED](https://postimg.cc/XXnwzxx0)
+![MARK TASK COMPLETED](https://github.com/ObamtechNetworks/CODSOFT/blob/main/TODO-APP/screenshots/Mark%20task%20completed.png)
 
 ### remove unfinished task
-![REMOVE UNFINISHED TASK](https://postimg.cc/8j0MsGG1)
+![REMOVE UNFINISHED TASK](https://github.com/ObamtechNetworks/CODSOFT/blob/main/TODO-APP/screenshots/remove%20unfinsihed%20task.png)
 
 ### remove completed task
-![REMOVE COMPLETED TASK](https://postimg.cc/qN6n3FB2)
+![REMOVE COMPLETED TASK](https://github.com/ObamtechNetworks/CODSOFT/blob/main/TODO-APP/screenshots/remove%20completed%20task.png)
 
 ### GUI created tasks persists
-![CREATED TASK PERSISTS GUI](https://postimg.cc/zbrn5krK)
+![CREATED TASK PERSISTS GUI](https://github.com/ObamtechNetworks/CODSOFT/blob/main/TODO-APP/screenshots/created%20task_persists.png)
 
 # CLI Version
 - Open a terminal.
@@ -122,22 +122,22 @@ python3 main.py
 
 ## TODO LIST CLI SCREENSHOTS
 ### main window
-![TODO APP CLI](https://postimg.cc/67RdDmDB)
+![TODO APP CLI](https://github.com/ObamtechNetworks/CODSOFT/blob/main/TODO-APP/screenshots/cli%20version%20main.png)
 
 ### add task
-![ADD TASK](https://postimg.cc/5XDBKVKP)
+![ADD TASK](https://github.com/ObamtechNetworks/CODSOFT/blob/main/TODO-APP/screenshots/add%20tasks.png)
 
 ### ongoing task
-![ONGOING TASK](https://postimg.cc/QHtcXtR4)
+![ONGOING TASK](https://github.com/ObamtechNetworks/CODSOFT/blob/main/TODO-APP/screenshots/ongoing%20tasks2.png)
 
 ### mark task completed
 ![MARK TASK COMPLETED](https://postimg.cc/pykDb815)
 
 ### completed task
-![MORE TASK](https://postimg.cc/SYQCYNjK)
+![MORE TASK](https://github.com/ObamtechNetworks/CODSOFT/blob/main/TODO-APP/screenshots/mark%20task%20completed_cli.png)
 
 ### remove completed task
-![EXIT](https://postimg.cc/vgt5m6Yj)
+![EXIT](https://github.com/ObamtechNetworks/CODSOFT/blob/main/TODO-APP/screenshots/exit%20cli.png)
 
 # Future Improvements
 This project is a basic implementation, and there are several areas for potential improvement:
