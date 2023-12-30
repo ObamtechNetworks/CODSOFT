@@ -6,7 +6,7 @@ from cli import TodoAppCLI
 from gui import TodoAppGUI
 
 
-if __name__ == "__main__":
+if __name__ == "_https://whimsical.com/todo-list-5DWh5wJWEbtft6ZZG2rvLX_main__":
     app_core = TodoAppCore()
     
     while True:

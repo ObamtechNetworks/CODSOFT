@@ -1,5 +1,8 @@
 # TODO List App
 
+- **WHITEBOARD TOOL** : [WHIMSICAL](https://whimsical.com/todo-list-5DWh5wJWEbtft6ZZG2rvLX)
+## [FLOWCHART AND UI DESIGN LINK]()
+
 ## TODO LIST GUI SCREENSHOT
 ### main window
 ![TODO APP GUI](https://github.com/ObamtechNetworks/CODSOFT/blob/main/TODO-APP/screenshots/main%20window.png)
