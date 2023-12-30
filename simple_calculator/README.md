@@ -2,7 +2,26 @@
 
 - [**LINK TO FLOWCHART**](https://whimsical.com/calculator-flowchart-3rBL2ZybxUfap1D11jUB3Y)
 
-#### ![FLOW CHART IMAGE]()
+#### ![FLOW CHART IMAGE](https://github.com/ObamtechNetworks/CODSOFT/blob/main/simple_calculator/images/CALCULATOR%20FLOWCHART.png)
+
+#### SCREENSHOTS
+
+##### ![WELCOME PAGE](https://github.com/ObamtechNetworks/CODSOFT/blob/main/simple_calculator/images/welcome%20page.png)
+
+##### ![START PAGE](https://github.com/ObamtechNetworks/CODSOFT/blob/main/simple_calculator/images/start%20page%20.png)
+
+##### ![START CALCULATION](https://github.com/ObamtechNetworks/CODSOFT/blob/main/simple_calculator/images/start%20calculating.png)
+
+##### ![FIRST CALCULATION](https://github.com/ObamtechNetworks/CODSOFT/blob/main/simple_calculator/images/first%20calculation.png)
+
+##### ![THIRD CALCULATION](https://github.com/ObamtechNetworks/CODSOFT/blob/main/simple_calculator/images/third%20calculation%20continued.png)
+
+##### ![FRESH CALCUATION](https://github.com/ObamtechNetworks/CODSOFT/blob/main/simple_calculator/images/fresh%20calculation.png)
+
+##### ![STARTING AFRESH](https://github.com/ObamtechNetworks/CODSOFT/blob/main/simple_calculator/images/starting%20afresh.png)
+
+##### ![LAST CALCULATION EXIT](https://github.com/ObamtechNetworks/CODSOFT/blob/main/simple_calculator/images/last%20calculation%20exit.png)
+
 ## Description
 This calculator program, developed by Bamidele Michael Ipadeola, is a simple yet robust Python application designed to perform basic arithmetic operations. It includes modularized code, user-friendly interfaces, and error handling to enhance the user experience.
 ---
