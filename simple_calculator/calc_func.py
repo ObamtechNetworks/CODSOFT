@@ -17,12 +17,14 @@ def my_calculator():
     game_play = True
 
     while True:
+        
         decision = input("Welcome! Hit 'enter key' to continue "
                          ">> To quit type: 'exit': ").lower().strip()
         if decision == "exit":
             game_play = False
             handle_exit()
         elif decision == "":
+            clear_screen()
             game_play = True
             break
         else:
