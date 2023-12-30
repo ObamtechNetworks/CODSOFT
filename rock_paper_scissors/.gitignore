@@ -1,3 +1,5 @@
 #
 ~
 __pycache__
+*.png:Zone.Identifier
+/images/*.png:Zone.Identifier*
