@@ -2,7 +2,7 @@
 
 ## TODO LIST GUI SCREENSHOT
 ### main window
-![TODO APP GUI](https://postimg.cc/7551N69G)
+![TODO APP GUI](https://github.com/ObamtechNetworks/CODSOFT/blob/main/TODO-APP/screenshots/main%20window.png)
 
 ## Project Overview
 
