@@ -3,7 +3,7 @@
 Welcome to the Rock Paper Scissors Game! This simple and fun game allows you to play the classic Rock, Paper, Scissors against the computer.
 
 - [**FLOWCHART LINK**](https://whimsical.com/rock-paper-scissors-LpUpMGmxFaxZHn5Jtu2Zf2@7YNFXnKbYq9PSE6WkCLyG)
-##### ![FLOWCHART IMAGE](<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/LpUpMGmxFaxZHn5Jtu2Zf2@7YNFXnKbYq9PSE6WkCLyG"></iframe>)
+##### ![FLOWCHART IMAGE](https://github.com/ObamtechNetworks/CODSOFT/blob/main/rock_paper_scissors/images/ROCK%20PAPER%20SCISSORS%20FLOWCHART.png)
 
 
 ## SCREENSHOTS
