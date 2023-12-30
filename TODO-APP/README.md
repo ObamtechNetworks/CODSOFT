@@ -1,7 +1,7 @@
 # TODO List App
 
-- **WHITEBOARD TOOL** : [WHIMSICAL](https://whimsical.com/todo-list-5DWh5wJWEbtft6ZZG2rvLX)
-## [FLOWCHART AND UI DESIGN LINK]()
+- **WHITEBOARD TOOL / LINK TO BOARD** : [WHIMSICAL](https://whimsical.com/todo-list-5DWh5wJWEbtft6ZZG2rvLX)
+## [FLOWCHART AND UI DESIGN](https://github.com/ObamtechNetworks/CODSOFT/blob/main/TODO-APP/screenshots/flowchart%20and%20UI%20Design.png)
 
 ## TODO LIST GUI SCREENSHOT
 ### main window
