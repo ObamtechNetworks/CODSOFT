@@ -147,7 +147,7 @@ Follow the instructions in the project-specific README file for installation and
 Contributions to this repository are welcome! If you have any suggestions, improvements, or new projects to add, feel free to fork the repository and submit a pull request. Let's collaborate and enhance the learning experience for everyone!
 
 # Author:
-- Bamidele Michael Ipadeola
+- [Bamidele Michael Ipadeola](https://github.com/ObamtechNetworks)
 
 # Acknowledgments:
 This repository is developed as part of the Python Internship Program by CODSOFT. Special thanks to the mentor and the community for their support.
