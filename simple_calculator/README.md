@@ -1,5 +1,8 @@
 # CALCULATOR
----
+
+- [**LINK TO FLOWCHART**](https://whimsical.com/calculator-flowchart-3rBL2ZybxUfap1D11jUB3Y)
+
+#### ![FLOW CHART IMAGE]()
 ## Description
 This calculator program, developed by Bamidele Michael Ipadeola, is a simple yet robust Python application designed to perform basic arithmetic operations. It includes modularized code, user-friendly interfaces, and error handling to enhance the user experience.
 ---
