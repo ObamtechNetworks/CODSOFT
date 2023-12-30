@@ -3,19 +3,19 @@
 Welcome to the Rock Paper Scissors Game! This simple and fun game allows you to play the classic Rock, Paper, Scissors against the computer.
 
 ## SCREENSHOTS
-#### [START PAGE](https://github.com/ObamtechNetworks/CODSOFT/blob/main/rock_paper_scissors/images/start%20page.png)
+#### ![START PAGE](https://github.com/ObamtechNetworks/CODSOFT/blob/main/rock_paper_scissors/images/start%20page.png)
 
-#### [HELP PAGE](https://github.com/ObamtechNetworks/CODSOFT/blob/main/rock_paper_scissors/images/help%20page.png)
+#### ![HELP PAGE](https://github.com/ObamtechNetworks/CODSOFT/blob/main/rock_paper_scissors/images/help%20page.png)
 
-#### [BEGIN GAME](https://github.com/ObamtechNetworks/CODSOFT/blob/main/rock_paper_scissors/images/begin%20game.png)
+#### ![BEGIN GAME](https://github.com/ObamtechNetworks/CODSOFT/blob/main/rock_paper_scissors/images/begin%20game.png)
 
-#### [FIRST ROUN](https://github.com/ObamtechNetworks/CODSOFT/blob/main/rock_paper_scissors/images/first%20round.png)
+#### ![FIRST ROUN](https://github.com/ObamtechNetworks/CODSOFT/blob/main/rock_paper_scissors/images/first%20round.png)
 
-#### [WON ROUND 2](https://github.com/ObamtechNetworks/CODSOFT/blob/main/rock_paper_scissors/images/won%20round%202.png)
+#### ![WON ROUND 2](https://github.com/ObamtechNetworks/CODSOFT/blob/main/rock_paper_scissors/images/won%20round%202.png)
 
-#### [ANOTHER DRAW](https://github.com/ObamtechNetworks/CODSOFT/blob/main/rock_paper_scissors/images/another%20draw.png)
+#### ![ANOTHER DRAW](https://github.com/ObamtechNetworks/CODSOFT/blob/main/rock_paper_scissors/images/another%20draw.png)
 
-#### [ENDED GAME WITH 3 ROUNDS](https://github.com/ObamtechNetworks/CODSOFT/blob/main/rock_paper_scissors/images/ended%20game%20with%20total%20rounds%20played.png)
+#### ![ENDED GAME WITH 3 ROUNDS](https://github.com/ObamtechNetworks/CODSOFT/blob/main/rock_paper_scissors/images/ended%20game%20with%20total%20rounds%20played.png)
 
 ## Table of Contents
 
