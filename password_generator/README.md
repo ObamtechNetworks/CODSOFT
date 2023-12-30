@@ -21,6 +21,9 @@ This password generator is a Python program developed by Bamidele Michael Ipadeo
 - [Contributor](#contributor)
 - [License](#license)
 
+- [**FLOWCHART LINK**](https://whimsical.com/password-generator-flowchart-GFNVevyXgJ1nzZc2yyop6r@2Ux7TurymNCxX391fzhb)
+##### ![FLOWCHART IMAGE](https://github.com/ObamtechNetworks/CODSOFT/blob/main/rock_paper_scissors/images/ROCK%20PAPER%20SCISSORS%20FLOWCHART.png)
+
 # SCREENSHOTS
 #### ![START PAGE](https://github.com/ObamtechNetworks/CODSOFT/blob/main/password_generator/images/password_gen.png)
 
