@@ -22,15 +22,15 @@ This password generator is a Python program developed by Bamidele Michael Ipadeo
 - [License](#license)
 
 # SCREENSHOTS
-#### [START PAGE](https://github.com/ObamtechNetworks/CODSOFT/blob/main/password_generator/images/password_gen.png)
+#### ![START PAGE](https://github.com/ObamtechNetworks/CODSOFT/blob/main/password_generator/images/password_gen.png)
 
-#### [BEGIN GENERATE PASSWORD](https://github.com/ObamtechNetworks/CODSOFT/blob/main/password_generator/images/start%20to%20generate%20password.png)
+#### ![BEGIN GENERATE PASSWORD](https://github.com/ObamtechNetworks/CODSOFT/blob/main/password_generator/images/start%20to%20generate%20password.png)
 
-#### [BEGIN GENERATE PASSWORD](https://github.com/ObamtechNetworks/CODSOFT/blob/main/password_generator/images/start%20to%20generate%20password.png)
+#### ![BEGIN GENERATE PASSWORD](https://github.com/ObamtechNetworks/CODSOFT/blob/main/password_generator/images/start%20to%20generate%20password.png)
 
-### [PASSWORD IS GENERATED](https://github.com/ObamtechNetworks/CODSOFT/blob/main/password_generator/images/passwd%20is%20generated.png)
+### ![PASSWORD IS GENERATED](https://github.com/ObamtechNetworks/CODSOFT/blob/main/password_generator/images/passwd%20is%20generated.png)
 
-### [SAVE PASSWORD TO FILE](https://github.com/ObamtechNetworks/CODSOFT/blob/main/password_generator/images/password%20file.png)
+### ![SAVE PASSWORD TO FILE](https://github.com/ObamtechNetworks/CODSOFT/blob/main/password_generator/images/password%20file.png)
 
 
 ## Introduction
