@@ -21,6 +21,18 @@ This password generator is a Python program developed by Bamidele Michael Ipadeo
 - [Contributor](#contributor)
 - [License](#license)
 
+# SCREENSHOTS
+#### [START PAGE](https://github.com/ObamtechNetworks/CODSOFT/blob/main/password_generator/images/password_gen.png)
+
+#### [BEGIN GENERATE PASSWORD](https://github.com/ObamtechNetworks/CODSOFT/blob/main/password_generator/images/start%20to%20generate%20password.png)
+
+#### [BEGIN GENERATE PASSWORD](https://github.com/ObamtechNetworks/CODSOFT/blob/main/password_generator/images/start%20to%20generate%20password.png)
+
+### [PASSWORD IS GENERATED](https://github.com/ObamtechNetworks/CODSOFT/blob/main/password_generator/images/passwd%20is%20generated.png)
+
+### [SAVE PASSWORD TO FILE](https://github.com/ObamtechNetworks/CODSOFT/blob/main/password_generator/images/password%20file.png)
+
+
 ## Introduction
 
 This password generator is a simple yet robust tool developed in Python. It allows users to create secure passwords with a customizable combination of letters, symbols, and digits. The program provides an intuitive interface for users to specify their password requirements and optionally save the generated password to a file with a timestamp.
