@@ -95,27 +95,31 @@ def my_calculator():
         print("================================================")
 
         # ask if user wants to continue calculating or start new operation
-        calc_again = input(
-            f"Type 'y' to continue calculating with {answer}"
-            " 'new' to start afresh, 'exit'  to quit. ").lower().strip()
+        while True:
+            calc_again = input(
+                f"Type 'y' to continue calculating with {answer}"
+                " 'new' to start afresh, 'exit'  to quit. ").lower().strip()
 
-        # check user's choice
-        if calc_again == 'y':
-            num1 = answer  # continue calculating with answer
-            print(f"\n====== Continuing Calcutions with: {num1}")
-            for keys in operators:
-                print(keys)
-        elif calc_again == 'new':
-            clear_screen()  # clear screen and start a new calculation
-            print("Starting Afresh...")
-            game_play = False
-            my_calculator()  # start afresh
-        elif calc_again == 'exit':
-            game_play = False  # exit stop loop and exit program
-            handle_exit()
-        else:
-            print("Invalid input exiting...")
-            break  # exit the program for any other or invalid input
+            # check user's choice
+            if calc_again == 'y':
+                num1 = answer  # continue calculating with answer
+                print(f"\n====== Continuing Calcutions with: {num1}")
+                for keys in operators:
+                    print(keys)
+                break
+            elif calc_again == 'new':
+                clear_screen()  # clear screen and start a new calculation
+                print("Starting Afresh...")
+                game_play = False
+                my_calculator()  # start afresh
+                break
+            elif calc_again == 'exit':
+                game_play = False  # exit stop loop and exit program
+                handle_exit()
+                break
+            else:
+                print("Invalid input")
+                # break  # exit the program for any other or invalid input
 
 
 if __name__ == '__main__':
